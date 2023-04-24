@@ -1,11 +1,11 @@
 # Educational-Expirence
 
-- University of Denver Graduate
+University of Denver Graduate
 
-- Relevant Coureswork
+Relevant Coureswork
 
-Unstructured Data Analytics [TBA](TBA)
+- Unstructured Data Analytics [TBA](TBA)
 
-Optimization Modeling [TBA](TBA)
+- Optimization Modeling [TBA](TBA)
 
-Data Warehousing and Visualisation [TBA](TBA)
+- Data Warehousing and Visualisation [TBA](TBA)
