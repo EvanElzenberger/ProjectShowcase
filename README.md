@@ -10,10 +10,10 @@ Relevant Data Analtics Coureswork
 
 - Data Warehousing and Visualisation [TBA](TBA)
 
-Relevant Finance Coursework
+Relevant Finance Coursework [TBA](TBA)
 
-- Multinational Financial Management 
+- Multinational Financial Management [TBA](TBA)
 
-- Corportate Financial Problems
+- Corportate Financial Problems [TBA](TBA)
 
-- Investments
+- Investments [TBA](TBA)
