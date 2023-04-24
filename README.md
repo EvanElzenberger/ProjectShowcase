@@ -2,7 +2,7 @@
 
 University of Denver Graduate
 
-Relevant Data Analtics Coureswork
+Relevant Data Analytics Coureswork
 
 - Unstructured Data Analytics [TBA](TBA)
 
