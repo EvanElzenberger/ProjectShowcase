@@ -1,8 +1,8 @@
 # Educational-Expirence
 
--University of Denver Graduate
+- University of Denver Graduate
 
--Relevant Coureswork
+- Relevant Coureswork
 
 Unstructured Data Analytics [TBA](TBA)
 
