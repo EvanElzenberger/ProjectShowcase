@@ -1,19 +1,17 @@
-# Educational-Expirence
+# Project-Showcase
 
-University of Denver Graduate
+Personal Projects
+- Financial Order Book Analytics [Coding for this project](TBA)
+- Finance Automation [Coding for this project](TBA)
 
-Relevant Data Analytics Coureswork
 
-- Unstructured Data Analytics [TBA](TBA)
+Relevant University of Denver Data Analytics Coureswork
+- Unstructured Data Analytics [Coding for this project](TBA)
+- Optimization Modeling [Coding for this project](TBA)
+- Data Warehousing and Visualisation [Coding for this project](TBA)
 
-- Optimization Modeling [TBA](TBA)
 
-- Data Warehousing and Visualisation [TBA](TBA)
-
-Relevant Finance Coursework [TBA](TBA)
-
-- Multinational Financial Management [TBA](TBA)
-
-- Corportate Financial Problems [TBA](TBA)
-
-- Investments [TBA](TBA)
+Relevant Finance Coursework 
+- Multinational Financial Management [Coding for this project](TBA)
+- Corportate Financial Problems [Coding for this project](TBA)
+- Investments [Coding for this project](TBA)
