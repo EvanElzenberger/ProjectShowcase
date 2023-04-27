@@ -1,4 +1,4 @@
-# Project-Showcase
+# Project Showcase
 
 Personal Projects
 - Financial Order Book Analytics [Coding for this project](TBA)
