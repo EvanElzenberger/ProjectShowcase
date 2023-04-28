@@ -1,8 +1,8 @@
 # Project Showcase
 
 Personal Projects
-- Financial Order Book Analytics [Coding for this project](TBA)
-- Finance Automation [Coding for this project](TBA)
+- Financial Order Book Analytics [TBA](TBA)
+- Finance Automation [TBA](TBA)
 
 
 Relevant University of Denver Data Analytics Coureswork
