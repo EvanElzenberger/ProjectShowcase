@@ -6,12 +6,12 @@ Personal Projects
 
 
 Relevant University of Denver Data Analytics Coureswork
-- Unstructured Data Analytics [Completed Projects](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
-- Optimization Modeling [Coding for this project](TBA)
-- Data Warehousing and Visualisation [Coding for this project](TBA)
+- Unstructured Data Analytics [Completed Work](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
+- Optimization Modeling [TBA](TBA)
+- Data Warehousing and Visualisation [TBA](TBA)
 
 
 Relevant Finance Coursework 
-- Multinational Financial Management [Coding for this project](TBA)
-- Corportate Financial Problems [Coding for this project](TBA)
-- Investments [Coding for this project](TBA)
+- Multinational Financial Management [TBA](TBA)
+- Corportate Financial Problems [TBA](TBA)
+- Investments [TBA](TBA)
