@@ -12,7 +12,7 @@ Relevant University of Denver Data Analytics Coureswork
 - Sports Analytics [TBA](TBA)
 
 
-Relevant Finance Coursework 
+Relevant University of Denver Finance Coursework 
 - Multinational Financial Management [TBA](TBA)
 - Corportate Financial Problems [TBA](TBA)
 - Investments [TBA](TBA)
