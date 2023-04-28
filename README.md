@@ -6,7 +6,7 @@ Personal Projects
 
 
 Relevant University of Denver Data Analytics Coureswork
-- Unstructured Data Analytics [Coding for this project](TBA)
+- Unstructured Data Analytics [Completed Projects](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
 - Optimization Modeling [Coding for this project](TBA)
 - Data Warehousing and Visualisation [Coding for this project](TBA)
 
