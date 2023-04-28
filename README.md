@@ -6,9 +6,9 @@
 
 
 ### Relevant University of Denver Data Analytics Coureswork
-- Unstructured Data Analytics [Completed Work](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
-- Optimization Modeling [Completed Work](https://github.com/EvanElzenberger/OptimizationModeling)
-- Data Warehousing and Visualisation [Completed Work](https://github.com/EvanElzenberger/DataWarehousing)
+- Unstructured Data Analytics [Highlights](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
+- Optimization Modeling [Highlights](https://github.com/EvanElzenberger/OptimizationModeling)
+- Data Warehousing and Visualisation [Highlights](https://github.com/EvanElzenberger/DataWarehousing)
 - Sports Analytics [TBA](TBA)
 
 
