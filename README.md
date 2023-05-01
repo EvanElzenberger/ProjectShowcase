@@ -9,7 +9,7 @@
 - Unstructured Data Analytics [Highlights](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
 - Optimization Modeling [Highlights](https://github.com/EvanElzenberger/OptimizationModeling)
 - Data Warehousing and Visualisation [Highlights](https://github.com/EvanElzenberger/DataWarehousing)
-- Sports Analytics [TBA](TBA)
+- Sports Analytics [Highlights](https://github.com/EvanElzenberger/SportsAnalytics)
 
 
 ### Relevant University of Denver Finance Coursework 
