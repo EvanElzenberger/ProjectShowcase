@@ -5,14 +5,14 @@
 - Finance Automation [TBA](TBA)
 
 
-### Relevant University of Denver Data Analytics Coureswork
+### University of Denver Data Analytics Coureswork
 - Unstructured Data Analytics [Highlights](https://github.com/EvanElzenberger/UnstructuredDataAnalytics/blob/main/README.md)
 - Optimization Modeling [Highlights](https://github.com/EvanElzenberger/OptimizationModeling)
 - Data Warehousing and Visualisation [Highlights](https://github.com/EvanElzenberger/DataWarehousing) (Page in Progress)
 - Sports Analytics [Highlights](https://github.com/EvanElzenberger/SportsAnalytics)
 
 
-### Relevant University of Denver Finance Coursework 
+### University of Denver Finance Coursework 
 - Multinational Financial Management [TBA](TBA)
 - Corportate Financial Problems [TBA](TBA)
 - Investments [TBA](TBA)
