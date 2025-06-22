@@ -1,9 +1,8 @@
 # Project Showcase
 
 ### Personal Projects
-- Financial Order Book Analytics [TBA](TBA)
-- Finance Automation [TBA](TBA)
-
+- Charles Schwab Api
+- Automaded Financial Modeling
 
 ### University of Denver Data Analytics Coureswork
 - [Unstructured Data Analytics](https://github.com/EvanElzenberger/UnstructuredDataAnalytics)
